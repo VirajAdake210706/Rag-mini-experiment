@@ -2,7 +2,7 @@
 
 Code, data generator and figures for the blog post **"Your Enterprise Chatbot Is Guessing: A Hands-On Look at Retrieval-Augmented Generation"**.
 
-Blog post: [add your Medium link here]
+Blog post: [https://medium.com/@adakeviraj2107/your-enterprise-chatbot-is-guessing-a-hands-on-look-at-retrieval-augmented-generation-b35eae1a5033?postPublishedType=repub]
 
 ## What this repo does
 
